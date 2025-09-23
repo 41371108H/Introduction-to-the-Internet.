@@ -1,1 +1,3 @@
-個人作業一:https://41371108h.github.io/114-1repo/
+# 114-1-web
+授課老師:蔡芸琤
+作業一:[個人網站]::https://41371108h.github.io/114-1repo/
