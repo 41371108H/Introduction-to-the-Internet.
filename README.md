@@ -21,6 +21,6 @@
 
 線上網站網址（已部署完成）:(https://693fea27e0ced0053a765488--luxury-liger-974754.netlify.app/)
 
-YouTube 影片連結
+YouTube 影片連結:(https://youtu.be/ahrxnRipnq0)
 
 專題程式碼 GitHub Repo 連結:(https://github.com/qk8015-lgtm/inspo-station)
